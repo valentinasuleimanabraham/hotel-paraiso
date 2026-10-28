@@ -24,7 +24,7 @@ function Inicio() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/hotel-paraiso">
       <div className="App">
         <Header />
 
