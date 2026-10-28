@@ -35,7 +35,7 @@ function Booking() {
   }
 
   return (
-    <section id="booking" className="booking">
+    <section className="booking">
       <h2>Nuestras habitaciones</h2>
 
       <div className="habitaciones">
@@ -46,6 +46,7 @@ function Booking() {
             <p>
               Precio por noche: ${habitacion.precio}
             </p>
+
             <button
               onClick={() => reservar(habitacion.nombre)}
             >

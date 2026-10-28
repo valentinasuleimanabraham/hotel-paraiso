@@ -3,6 +3,7 @@
   padding: 40px 20px;
   text-align: center;
   background-color: #f1f5f9;
+  min-height: 70vh;
 }
 
 .booking h2 {

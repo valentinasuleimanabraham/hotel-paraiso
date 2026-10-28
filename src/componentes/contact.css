@@ -3,6 +3,7 @@
   padding: 40px 20px;
   text-align: center;
   background-color: white;
+  min-height: 70vh;
 }
 
 .contact h2 {

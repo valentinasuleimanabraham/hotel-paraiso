@@ -1,3 +1,4 @@
+
 .App {
   font-family: Arial, sans-serif;
   color: #333;
@@ -7,9 +8,14 @@
   padding: 70px 20px;
   text-align: center;
   background-color: #e0edf5;
+  min-height: 70vh;
 }
 
 .inicio h2 {
   color: #20344a;
   font-size: 30px;
+}
+
+.inicio p {
+  line-height: 1.6;
 }
