@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hotel-paraiso/static/css/main.953fae71.css",
+    "main.js": "/hotel-paraiso/static/js/main.14434b5c.js",
+    "static/js/453.a2c3a627.chunk.js": "/hotel-paraiso/static/js/453.a2c3a627.chunk.js",
+    "index.html": "/hotel-paraiso/index.html",
+    "main.953fae71.css.map": "/hotel-paraiso/static/css/main.953fae71.css.map",
+    "main.14434b5c.js.map": "/hotel-paraiso/static/js/main.14434b5c.js.map",
+    "453.a2c3a627.chunk.js.map": "/hotel-paraiso/static/js/453.a2c3a627.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.953fae71.css",
+    "static/js/main.14434b5c.js"
+  ]
+}
