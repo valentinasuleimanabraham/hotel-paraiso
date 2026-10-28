@@ -1,0 +1,14 @@
+
+.contact {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: white;
+}
+
+.contact h2 {
+  color: #20344a;
+}
+
+.contact p {
+  margin: 12px;
+}
